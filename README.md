@@ -23,4 +23,5 @@
 6. Rename root directory
 7. `npm i`
 8. `npm run start` or `npm run tunnel` if server and phone are not the same network
-9. Scan QR code with Expo Go app on phone to open the app
+9. Press `s` to switch from development client to Expo Go
+10. Scan QR code with Expo Go app on phone to open the app
